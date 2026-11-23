@@ -1,17 +1,16 @@
-# STATE.md
-
-Estado del proyecto. Léalo al iniciar cada sesión de trabajo y actualícelo al cerrarla.
+﻿# STATE.md
 
 ## Estado actual
 
-Plantilla creada y desplegada. Página de inicio, /salud y /docs en funcionamiento.
+Repositorio publicado en GitHub con el CI en verde.
+Página de inicio, /salud y /docs funcionando en https://plataforma-ludica-dpem.onrender.com.
 
 ## Decisiones
 
 | Fecha | Decisión | Motivo |
 | --- | --- | --- |
-|  |  |  |
+| 2026-11-23 | Usar la plantilla del curso con FastAPI | Es el stack definido para el proyecto |
 
 ## Siguiente paso
 
-(complete)
+Agregar el endpoint /api/version con su prueba.
